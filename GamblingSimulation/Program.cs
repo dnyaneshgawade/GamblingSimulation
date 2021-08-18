@@ -8,7 +8,7 @@ namespace GamblingSimulation
         {
             Console.WriteLine("Wellcome to Gambling Simulation!");
             Gambling gambling = new Gambling();
-            gambling.Display();
+            gambling.Gamble();
 
         }
     }
